@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{4D1D6399-4841-1D4A-D462-2A81319974D2}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -80,7 +80,6 @@
 			"Name": "OpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win32",
 				"Win64",
 				"Linux",
 				"Android",
